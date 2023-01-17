@@ -5,3 +5,5 @@ x = teks.length-1
 
 
 untuk 
+
+hayuu
