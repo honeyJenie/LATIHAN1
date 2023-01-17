@@ -1,0 +1,7 @@
+teks = "Javascript"
+
+x = teks.length-1
+
+
+
+untuk 
