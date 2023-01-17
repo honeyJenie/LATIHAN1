@@ -4,7 +4,4 @@ x = teks.length-1
 
 
 
-untuk 
-
-hauu
-coba
+untuk
