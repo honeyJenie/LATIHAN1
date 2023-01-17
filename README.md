@@ -1,1 +1,2 @@
 # INI CATATAN
+## jodie ganteng
